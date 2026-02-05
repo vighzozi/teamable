@@ -1,2 +1,2 @@
-const profiles = []
-cons profile = ""
+const userProfiles = []
+const userProfile = ""
