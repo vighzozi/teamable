@@ -1,6 +1,6 @@
 # teamable
 
-This is a demo project for IT beginners course.
+This is an application for managing user profiles.
 
 ### To run the rest execute
 
