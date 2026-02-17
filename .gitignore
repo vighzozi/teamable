@@ -2,3 +2,4 @@ node_modules
 .vscode
 dist
 teamable-*.tgz
+.DS_Store
